@@ -69,21 +69,25 @@ If the problem is with specific URI, please paste them below:
 </details>
 </p>
 
-#### For the Gitlab Team to complete
+#### For the Gitlab Team
+
+- [Cloudflare Grafana Dashboard](https://dashboards.gitlab.net/d/sPqgMv9Zk/cloudflare-traffic-overview?orgId=1&refresh=30s)
+- [Cloudflare Dashboard](https://dash.cloudflare.net)
+  - [GitLab.com Firewall Overview](https://dash.cloudflare.com/852e9d53d0f8adbd9205389356f2303d/gitlab.com/firewall)
 
 ##### `rails` and other application logs
 
 <!-- Link to elastic short urls here -->
 
-#####
+##### Cloudflare logs and `dash.cloudflare.com` results
+
+<!-- -->
+
 
 #### Labels and things
 
 
 /label ~team::Core-infra ~security ~service::Cloudflare
-
-
-
 
 
 #### Additional reports
