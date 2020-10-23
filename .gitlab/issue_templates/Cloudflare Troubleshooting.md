@@ -72,7 +72,7 @@ If the problem is with specific URI, please paste them below:
 #### For the Gitlab Team
 
 - [Cloudflare Grafana Dashboard](https://dashboards.gitlab.net/d/sPqgMv9Zk/cloudflare-traffic-overview?orgId=1&refresh=30s)
-- [Cloudflare Dashboard](https://dash.cloudflare.net)
+- [Cloudflare Dashboard](https://dash.cloudflare.com)
   - [GitLab.com Firewall Overview](https://dash.cloudflare.com/852e9d53d0f8adbd9205389356f2303d/gitlab.com/firewall)
 
 ##### `rails` and other application logs
