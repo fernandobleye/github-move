@@ -29,7 +29,7 @@ location:
 
 <p>
 <details>
-<summary>`curl https://gitlab.com/cdn-cgi/trace`</summary>
+<summary>`curl -v https://gitlab.com/cdn-cgi/trace`</summary>
 
 <pre><code>PASTE OUTPUT HERE</code></pre>
 
