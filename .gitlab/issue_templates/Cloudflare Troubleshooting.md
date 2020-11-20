@@ -131,5 +131,7 @@ template can be used:
 ```
 
 /confidential
-/label ~"keep confidential"
+/label ~"keep confidential" ~"Service::Cloudflare" ~"Team::Core-Infra"
+
+cc @asaba
 
