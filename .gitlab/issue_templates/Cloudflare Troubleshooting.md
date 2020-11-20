@@ -15,8 +15,8 @@ Brief description of the behavior:
 #### Minimum Tracing
 
 Please run the following commands and paste the output below. This will include
-the Cloudflare Point-of-presence code which will indicate your general geographic
-location:
+your IP address the Cloudflare Point-of-presence code which will indicate your
+general geographic location to help debugging:
 
 <p>
 <details>
@@ -122,5 +122,8 @@ template can be used:
 
 </details>
 </p>
-
 ```
+
+/confidential
+/label ~"keep confidential"
+
