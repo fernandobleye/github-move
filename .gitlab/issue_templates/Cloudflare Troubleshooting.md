@@ -7,8 +7,11 @@ If this report is linked to an ~incident issue link it here: #INCIDENT ISSUE NUM
 
 What service is exhibiting issues:
 
-- [ ] `https`
-- [ ] `ssh`
+- [ ] `git`
+  - [ ] `ssh`
+  - [ ] `https`
+- [ ] `web`
+- [ ] `api`
 
 Brief description of the behavior:
 
