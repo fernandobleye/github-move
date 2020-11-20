@@ -98,7 +98,7 @@ template can be used:
 ```
 <p>
 <details>
-<summary>`curl http://gitlab.com/cdn-cgi/trace`</summary>
+<summary>`curl -v http://gitlab.com/cdn-cgi/trace`</summary>
 
 <pre><code>PASTE OUTPUT HERE</code></pre>
 
