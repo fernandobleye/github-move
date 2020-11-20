@@ -12,6 +12,7 @@ What service is exhibiting issues:
   - [ ] `https`
 - [ ] `web`
 - [ ] `api`
+Canary (GitLab Next) in use? yes/no/unknown
 
 Brief description of the behavior:
 
