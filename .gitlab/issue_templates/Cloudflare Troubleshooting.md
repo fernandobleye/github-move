@@ -14,9 +14,11 @@ Brief description of the behavior:
 
 #### Minimum Tracing
 
-Please run the following commands and paste the output below. This will include
-your IP address the Cloudflare Point-of-presence code which will indicate your
-general geographic location to help debugging:
+Please run the following commands and paste the output below. This issue will
+be made confidential by default using the `/confidential` quick action since
+this includes your IP address the Cloudflare Point-of-presence code which will
+indicate your general geographic location to help debugging and upstream
+reporting of any issues:
 
 <p>
 <details>
